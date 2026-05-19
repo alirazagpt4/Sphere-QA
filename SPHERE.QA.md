@@ -32,8 +32,8 @@ ADMIN LOGIN
 MIS Manager login
 
 > Websocket connection
- [Fail] Web socket not connected
-![alt text](image-1.png)
+> [Fail] Web socket not connected
+> ![alt text](image-1.png)
 
 > Create Task
 > [FAIL] Task Creation with Image Upload
@@ -41,6 +41,7 @@ MIS Manager login
 - Create task with jpeg , png failed within 2mb
 - Click on Save button , first image uplaod failed , no task created
   with any type of image like jpeg , png
+  ![alt text](image-4.png)
 
 > create task without image
 > [Pass] Task creation without image
