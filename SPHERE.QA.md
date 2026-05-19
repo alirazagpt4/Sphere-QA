@@ -32,9 +32,8 @@ ADMIN LOGIN
 MIS Manager login
 
 > Websocket connection
-
-    [Fail] Web socket not connected
-    ![alt text](image-1.png)
+ [Fail] Web socket not connected
+![alt text](image-1.png)
 
 > Create Task
 > [FAIL] Task Creation with Image Upload
